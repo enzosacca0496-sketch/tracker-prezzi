@@ -6,7 +6,4 @@
 #             non viene letto in automatico (vedi README)
 #
 # AMAZON: non metterlo qui (Amazon blocca i server di GitHub), usa Keepa.
-
-- name: Frigorifero Electrolux LNN3CE18S1 (MediaWorld)
-  url: https://www.mediaworld.it/it/product/_electrolux-lnn3ce18s1-568480.html
-  target: 500
+# I prodotti si possono aggiungere anche dal bot Telegram con /aggiungi.

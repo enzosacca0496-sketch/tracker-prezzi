@@ -1,11 +1,3 @@
 {
-  "https://www.mediaworld.it/it/product/_electrolux-lnn3ce18s1-568480.html": {
-    "name": "Frigorifero Electrolux LNN3CE18S1 (MediaWorld)",
-    "errors": 7,
-    "last_price": 499.0,
-    "last_change": "2026-10-30T18:10:09+00:00",
-    "min_price": 499.0,
-    "notified_price": 499.0
-  },
-  "_telegram_offset": 149779684
+  "_telegram_offset": 149779685
 }
